@@ -21,7 +21,11 @@
     "White Oak": 4.2,
     "Ash": 4.1,
     "Red Maple": 3.9,
-    "Sugar Maple": 3.0
+    "Sugar Maple": 3.0,
+    "Mango": 4.2,
+    "Neem": 3.3,
+    "Coconut": 2.0
   },
+
   "_comments": "CO2 emission in kg/tree/year"
 }
